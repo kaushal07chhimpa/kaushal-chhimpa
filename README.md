@@ -1,2 +1,5 @@
 # kaushal-chhimpa
-self practice 
+
+self practice
+
+hey i'm a mern stack devloper
